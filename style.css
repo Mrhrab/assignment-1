@@ -43,3 +43,49 @@ h1{
     text-align: center;
     padding: 10px 250px;
 }
+.recepies{
+    width: 80%;
+    margin-left: 2%;
+    margin-right: 2%;
+    box-shadow: 5px 5px 5px 5px grey;
+    padding: 10px;
+    border-radius: 15px;
+
+}
+.recepies img{
+    width: 100%;
+      border-radius: 15px;
+    
+}
+.sec-three{
+    margin-left: 50px;
+    margin-right: 50px;
+}
+.div-sec-three{
+ 
+    display: flex;
+    width: 80%;
+    height: 10% ;
+    margin: 10%;
+    padding: 1px solid black;
+    text-align: center;
+    box-shadow: 2px 2px 5px 5px grey;
+    border-radius: 15px;
+    
+    
+}
+footer{
+    color: white;
+    border: 10px solid black;
+    width: 40%;
+    margin: 0;
+    width: 100%;
+    text-align: center;
+    background-color: black;
+}
+
+.last-div{
+    
+    margin:10%;
+    text-align:center;
+}
